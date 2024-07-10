@@ -1,0 +1,23 @@
+{
+  "name": "pesquisas_por_cnpj",
+  "version": "1.0.0",
+  "description": "Faz pesquisar por CNPJ usando api do BrasilAPI - https://brasilapi.com.br/docs#tag/CNPJ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johnny-Lira/pesquisas_por_cnpj.git"
+  },
+  "author": "Johnny-Lira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Johnny-Lira/pesquisas_por_cnpj/issues"
+  },
+  "homepage": "https://github.com/Johnny-Lira/pesquisas_por_cnpj#readme",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
